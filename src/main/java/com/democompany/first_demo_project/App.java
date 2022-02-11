@@ -1,7 +1,7 @@
 package com.democompany.first_demo_project;
 
 /**
- * Hello world!
+ * Hello world!thismyproject
  *
  */
 public class App 
